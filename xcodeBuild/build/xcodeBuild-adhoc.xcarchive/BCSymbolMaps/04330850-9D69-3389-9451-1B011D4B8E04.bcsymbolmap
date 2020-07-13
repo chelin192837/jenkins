@@ -1,0 +1,47 @@
+BCSymbolMap Version: 2.0
+-[ViewController viewDidLoad]
+-[ViewController countClick:]
+-[ViewController countLabel]
+-[ViewController setCountLabel:]
+-[ViewController .cxx_destruct]
+_OBJC_CLASS_$_ViewController
+_count
+_OBJC_IVAR_$_ViewController._countLabel
+_OBJC_METACLASS_$_ViewController
+Apple clang version 11.0.0 (clang-1100.0.33.16)
+/Users/mac/Documents/OC:C++/xcodeBuild/xcodeBuild/ViewController.m
+/Users/mac/Documents/OC:C++/xcodeBuild
+xcodeBuild/ViewController.m
+-[AppDelegate application:didFinishLaunchingWithOptions:]
+-[AppDelegate application:configurationForConnectingSceneSession:options:]
+-[AppDelegate application:didDiscardSceneSessions:]
+__OBJC_PROTOCOL_$_NSObject
+__OBJC_LABEL_PROTOCOL_$_NSObject
+__OBJC_PROTOCOL_$_UIApplicationDelegate
+__OBJC_LABEL_PROTOCOL_$_UIApplicationDelegate
+_OBJC_METACLASS_$_AppDelegate
+_OBJC_CLASS_$_AppDelegate
+/Users/mac/Documents/OC:C++/xcodeBuild/xcodeBuild/AppDelegate.m
+xcodeBuild/AppDelegate.m
+/Users/mac/Documents/OC:C++/xcodeBuild/xcodeBuild/main.m
+main
+xcodeBuild/main.m
+-[SceneDelegate scene:willConnectToSession:options:]
+-[SceneDelegate sceneDidDisconnect:]
+-[SceneDelegate sceneDidBecomeActive:]
+-[SceneDelegate sceneWillResignActive:]
+-[SceneDelegate sceneWillEnterForeground:]
+-[SceneDelegate sceneDidEnterBackground:]
+-[SceneDelegate window]
+-[SceneDelegate setWindow:]
+-[SceneDelegate .cxx_destruct]
+_OBJC_IVAR_$_SceneDelegate._window
+__OBJC_PROTOCOL_$_UISceneDelegate
+__OBJC_LABEL_PROTOCOL_$_UISceneDelegate
+__OBJC_PROTOCOL_$_UIWindowSceneDelegate
+__OBJC_LABEL_PROTOCOL_$_UIWindowSceneDelegate
+_OBJC_METACLASS_$_SceneDelegate
+_OBJC_CLASS_$_SceneDelegate
+/Users/mac/Documents/OC:C++/xcodeBuild/xcodeBuild/SceneDelegate.m
+xcodeBuild/SceneDelegate.m
+xcodeBuild/SceneDelegate.h
